@@ -1,2 +1,3 @@
 import pandas as pd
-pd.read_csv('dataset_120.csv')
+data = pd.read_csv('dataset_120.csv')
+data.loc[0,'score'] = 0
