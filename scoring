@@ -1,3 +1,25 @@
 import pandas as pd
 data = pd.read_csv('dataset_120.csv')
-data.loc[0,'score'] = 0
+
+#Hugo
+list.drop(index=113, inplace=True)
+list.loc[5,'score'] = 3
+list.loc[11,'score'] = 0
+list.loc[17,'score'] = 4
+list.loc[23,'score'] = 4
+list.loc[29,'score'] = 4
+list.loc[35,'score'] = 4
+list.loc[41,'score'] = 2
+list.loc[35,'score'] = 4
+list.loc[47,'score'] = 3
+list.loc[53,'score'] = 2
+list.loc[59,'score'] = 5
+list.loc[65,'score'] = 4
+list.loc[71,'score'] = 1
+list.loc[77,'score'] = 4
+list.loc[83,'score'] = 0
+list.loc[89,'score'] = 2
+list.loc[95,'score'] = 1
+list.loc[101,'score'] = 3
+list.loc[107,'score'] = 5
+list.loc[119,'score'] = 0
