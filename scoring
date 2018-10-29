@@ -23,3 +23,25 @@ list.loc[95,'score'] = 1
 list.loc[101,'score'] = 3
 list.loc[107,'score'] = 5
 list.loc[119,'score'] = 0
+
+#Shivam
+list.loc[2,'score']= 1
+list.loc[8,'score']= 4
+list.loc[14,'score']= 0
+list.loc[20,'score']= 5
+list.loc[26,'score']= 2
+list.loc[32,'score']= 1
+list.loc[38,'score']= 0
+list.loc[44,'score']= 0
+list.loc[50,'score']= 2
+list.loc[56,'score']= 5
+list.loc[62,'score']= 5
+list.loc[68,'score']= 5
+list.loc[74,'score']= 1
+list.loc[80,'score']= 3
+list.loc[86,'score']= 2
+list.loc[92,'score']= 2
+list.loc[98,'score']= 2
+list.loc[104,'score']= 0
+list.loc[110,'score']= 5
+list.loc[116,'score']= 5
